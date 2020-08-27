@@ -20,3 +20,6 @@ export function task11Old(obj, fieldName) {
 
 export function task11New() {
 }
+
+
+// Object.is

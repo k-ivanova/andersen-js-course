@@ -14,3 +14,4 @@ export function task14Old(obj) {
 // При желании, можете использовать стрелочную функцию, вместо обычной
 
 export function task14New() {}
+// Array.prototype.entries

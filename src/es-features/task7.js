@@ -22,3 +22,6 @@ export function task7Old() {
 // При желании, можете использовать стрелочную функцию, вместо обычной
 
 export function task7New() {}
+
+
+// SPREAD (MERGE objects) or Object.assign

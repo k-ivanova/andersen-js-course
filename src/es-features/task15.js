@@ -17,3 +17,4 @@ export function task15Old(arr) {
 
 export function task15New() {
 }
+// fromEntries

@@ -17,3 +17,6 @@ export function task5Old(array, obj) {
 // При желании, можете использовать стрелочную функцию, вместо обычной
 
 export function task5New() {}
+
+
+// DESTRUCT

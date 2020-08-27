@@ -13,3 +13,5 @@ export function task13Old(arr) {
 // При желании, можете использовать стрелочную функцию, вместо обычной
 
 export function task13New() {}
+
+// Array.prototype.flat
